@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ra114514N
-- ⚡ GUET/AWG安网阁
+- ⚡ GUET/AWG
 - 👀 CTFer/RE
 - 🌱 Android learing.
 - 📫 Reach me : QQ1136870663
