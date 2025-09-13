@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Ra114514N
-- ⚡ GUET/AWG
-- 👀 CTFer/RE
-- 🌱 Android learing.
-- 📫 Reach me : QQ1136870663
-- 😄 My blog : shyrain.cn
+- 👋 Hi, I’m 
+- ⚡ 
+- 👀 
+- 🌱 
+- 📫 
+- 😄 
 
 <!---
 Ra114514N/Ra114514N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
